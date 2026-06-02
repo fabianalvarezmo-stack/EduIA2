@@ -1,0 +1,6 @@
+{
+  "name": "EduAI",
+  "description": "Tutor Educativo Inteligente con adaptación pedagógica para la enseñanza en Chile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
